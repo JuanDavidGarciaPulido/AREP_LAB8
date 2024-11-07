@@ -2,5 +2,5 @@
 
 Se realizó la primera parte en donde seguimos el tutorial para crear una aplicación LLM con LCEL.
 
-#Arquitectura
+# Arquitectura
 
