@@ -11,7 +11,8 @@ Se realizó la primera parte en donde seguimos el tutorial para crear una aplica
 
 # Componentes Arquitectura
 
-#Lang chain app
+## Lang chain app
+
 Actúa como un entorno interactivo para experimentar con LangChain.
 
 * Instalación y configuración.
@@ -19,7 +20,8 @@ Actúa como un entorno interactivo para experimentar con LangChain.
 * Invocación del modelo.
 * Creación de un pipeline (Chain).
 
-#Lang chain server
+## Lang chain server
+
 Configura un servidor FastAPI que recibe solicitudes HTTP y ejecuta el pipeline.
 
 * Configuración de variables, plantillas y modelo.
@@ -27,7 +29,8 @@ Configura un servidor FastAPI que recibe solicitudes HTTP y ejecuta el pipeline.
 * Definición de un endpoint /chain que permite a los clientes invocar el chain.
 * Ejecución del servidor usando Uvicorn.
 
-#Lang chain client
+## Lang chain client
+
 Responsable de interactuar con el servidor FastAPI.
 
 * Crea un objeto RemoteRunnable apuntando al endpoint del servidor (http://localhost:8000/chain/).
