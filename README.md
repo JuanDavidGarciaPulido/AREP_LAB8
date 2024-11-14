@@ -37,6 +37,8 @@ Responsable de interactuar con el servidor FastAPI.
 * Se invoca el pipeline con un objeto JSON que contiene los parámetros necesarios para el modelo.
 * El servidor procesa la solicitud y devuelve el resultado traducido.
 
+Link al repositorio con la parte 2: https://github.com/JuanDavidGarciaPulido/AREP_LAB8_PARTE2
+
 
 
 
